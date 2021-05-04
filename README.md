@@ -1,9 +1,15 @@
 # Bootcamp
 <p align="center">
-    <img src="img/inter.png">
-    <img src="img/impulso.png">
-    <img src="img/localizalabs.png">
-    <img src="img/mrv.png">
+
+[<img src="img/codeanywhere.png">](https://digitalinnovation.one/bootcamps/code-anywhere)
+[<img src="img/everis-fullstack.png">](https://digitalinnovation.one/bootcamps/everis-fullstack-developer)
+[<img src="img/everis-kotlin.png">](https://digitalinnovation.one/bootcamps/everis-kotlin-developer)    
+[<img src="img/inter.png">](https://digitalinnovation.one/bootcamps/inter-java-developer)
+[<img src="img/impulso.png">](https://digitalinnovation.one/bootcamps/bootcamp-ruby-impulso)
+[<img src="img/localizalabs.png">](https://digitalinnovation.one/bootcamps/localizalabs-net-developer) 
+[<img src="img/mrv.png">](https://digitalinnovation.one/bootcamps/mrv-net-developer)
+[<img src="img/takeblip.png">](https://digitalinnovation.one/bootcamps/take-blip-fullstack-developer)
+
 </p>
 
 ## Conteúdo
@@ -12,14 +18,14 @@
 * Linux
 * Git
 * TDD
-* Linguagem
-    * Shell
-    * Java
-        * Spring Boot
+* Linguagem de programação
 * Arquitetura de sistemas
 * Deploy
 
 ## Referência
+
+[<img src="img/dio.png">](https://digitalinnovation.one/)
+
 ### Livro
 * Lógica de programação: a construção de algoritmos e estruturas de dados
 * Linux: A Bíblia

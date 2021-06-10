@@ -12,6 +12,9 @@
 
 </p>
 
+
+---
+
 ## Conteúdo
 * Estrutura de dados
 * Banco de dados
@@ -22,16 +25,21 @@
 * Arquitetura de sistemas
 * Deploy
 
+---
+
+## Certificates
+* [Python](https://www.hackerrank.com/certificates/8954a68221f0)
+
+---
+
 ## Referência
-
-[<img src="img/dio.png">](https://digitalinnovation.one/)
-
 ### Livro
 * Lógica de programação: a construção de algoritmos e estruturas de dados
 * Linux: A Bíblia
 * Controlando versões com Git e GitHub
 * Sistemas de Banco de Dados by Navathe
 * [Um guia definitivo para o Scrum](https://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-portuguese-br.pdf)
+---
 * HTML5 e CSS3 domine a web do futuro 
 * JavaScript O guia definitivo by David Flanagan
 * Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java
@@ -41,5 +49,9 @@
 * Desenvolvimento web com ASP.NET MVC by Fabrício Sanchez, Márcio Fábio Althmann
 * Scrum Gestão ágil para projetos de sucesso
 
+---
+
+[<img src="img/hackerrank.png">](https://www.hackerrank.com)
+[<img src="img/dio.png">](https://digitalinnovation.one/)
 ### Github
 * [Java: Collections](https://github.com/wesleyfuchter/collections-course)

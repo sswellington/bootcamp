@@ -1,5 +1,6 @@
 'use strict';
 
+
 const fs = require('fs');
 const assert = require('assert');
 
@@ -19,12 +20,15 @@ process.stdin.on('end', function() {
   main();
 });
 
+
 function readLine() {
   return inputString[currentLine++];
 }
 
+
 const counter = (function counter() {
   let value = 0;
+  
   return {
     getValue: function() {
       return value;
@@ -34,18 +38,33 @@ const counter = (function counter() {
     },
   }
 })();
+
+
 function getFixedCounter(k) {
-  // write your code here
+  let c = counter;
+  return{
+    increment:()=>{
+      c.changeBy(k);
+    },
+    decrement:()=>{
+      c.changeBy(-k);
+    },
+    getValue:()=>{
+      return c.getValue();
+    }
+  }
 }
+
+
 function main() {
   const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
-
   const val = parseInt(readLine().trim());
-
   const c = getFixedCounter(val);
+  
   assert(!('changeBy' in c));
 
   const n = parseInt(readLine().trim());
+
   for (let i = 0; i < n; ++i) {
     const op = readLine().trim();
     if (op == '+') {

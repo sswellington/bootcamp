@@ -29,6 +29,7 @@
 
 ## Certificates
 * [Python](https://www.hackerrank.com/certificates/8954a68221f0)
+* [Javascript](https://www.hackerrank.com/certificates/f338afee6b4d)
 
 ---
 

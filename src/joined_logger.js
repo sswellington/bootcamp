@@ -1,7 +1,7 @@
 'use strict';
 
-const fs = require('fs');
 
+const fs = require('fs');
 
 process.stdin.resume();
 process.stdin.setEncoding('utf-8');
@@ -19,34 +19,40 @@ process.stdin.on('end', function() {
   main();
 });
 
+
 function readLine() {
   return inputString[currentLine++];
 }
 
-const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
 
+const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
 function logger(msg) {
-  ws.write(`${msg.text}\n`);
+    ws.write(`${msg.text}\n`);
 }
+
 
 function joinedLogger(level, sep) {
-  // write your code here
+    //https://stackoverflow.com/questions/62518241/how-to-loop-with-curry-function
+    return function(arr){
+        console.log('level',level);
+        console.log('sep',sep);
+        console.log('arr',arr);
+        //console.log(arr[0].text+';'+arr[1].text+';'+arr[3].text);
+    }
 }
 
-function main() {
-  const firstLine = readLine().trim().split(" ");
-  const level = parseInt(firstLine[0]);
-  const sep = firstLine[1];
-  const myLog = joinedLogger(level, sep);
 
-  const n = parseInt(readLine().trim());
-  let messages = [];
-  for (let i = 0; i < n; ++i) {
-    const line = readLine().trim().split(" ");
-    const level = parseInt(line[0]);
-    const text = line[1];
-    messages.push({ level, text });
-  }
-  myLog(...messages);
-  ws.end();
+function main() {
+    const firstLine = ['21', ';'];
+    const level = '2';
+    const sep = firstLine[1];
+    const myLog = joinedLogger(level, sep);
+    const n = 4;
+    let messages = [];
+    var ob = {level: 20, text: 'foo'};
+    messages.push(ob);
+    ob = {level: 90, text: 'bar'};
+    messages.push(ob);
+    console.log(messages);
+    myLog(...messages);
 }

@@ -1,16 +1,15 @@
 # Bootcamp
-<p align="center">
 
-[<img src="img/codeanywhere.png">](https://digitalinnovation.one/bootcamps/code-anywhere)
-[<img src="img/everis-fullstack.png">](https://digitalinnovation.one/bootcamps/everis-fullstack-developer)
-[<img src="img/everis-kotlin.png">](https://digitalinnovation.one/bootcamps/everis-kotlin-developer)    
+[<img src="img/codeanywhere.png">](https://digitalinnovation.one/bootcamps/code-anywhere) 
+[<img src="img/everis-fullstack.png">](https://digitalinnovation.one/bootcamps/everis-fullstack-developer) 
+[<img src="img/everis-kotlin.png">](https://digitalinnovation.one/bootcamps/everis-kotlin-developer) 
+[<img src="img/gtf_java.png">](https://digitalinnovation.one/bootcamps/gft-start-2-java) 
+[<img src="img/gtf_net.png">](https://digitalinnovation.one/bootcamps/gft-start-2-net)
 [<img src="img/inter.png">](https://digitalinnovation.one/bootcamps/inter-java-developer)
 [<img src="img/impulso.png">](https://digitalinnovation.one/bootcamps/bootcamp-ruby-impulso)
 [<img src="img/localizalabs.png">](https://digitalinnovation.one/bootcamps/localizalabs-net-developer) 
 [<img src="img/mrv.png">](https://digitalinnovation.one/bootcamps/mrv-net-developer)
 [<img src="img/takeblip.png">](https://digitalinnovation.one/bootcamps/take-blip-fullstack-developer)
-
-</p>
 
 
 ---

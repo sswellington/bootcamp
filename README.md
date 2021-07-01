@@ -1,15 +1,18 @@
 # Bootcamp
-
-[<img src="img/codeanywhere.png">](https://digitalinnovation.one/bootcamps/code-anywhere) 
-[<img src="img/everis-fullstack.png">](https://digitalinnovation.one/bootcamps/everis-fullstack-developer) 
-[<img src="img/everis-kotlin.png">](https://digitalinnovation.one/bootcamps/everis-kotlin-developer) 
-[<img src="img/gtf_java.png">](https://digitalinnovation.one/bootcamps/gft-start-2-java) 
-[<img src="img/gtf_net.png">](https://digitalinnovation.one/bootcamps/gft-start-2-net)
-[<img src="img/inter.png">](https://digitalinnovation.one/bootcamps/inter-java-developer)
-[<img src="img/impulso.png">](https://digitalinnovation.one/bootcamps/bootcamp-ruby-impulso)
-[<img src="img/localizalabs.png">](https://digitalinnovation.one/bootcamps/localizalabs-net-developer) 
-[<img src="img/mrv.png">](https://digitalinnovation.one/bootcamps/mrv-net-developer)
-[<img src="img/takeblip.png">](https://digitalinnovation.one/bootcamps/take-blip-fullstack-developer)
+[<img src="img/dio/codeanywhere.png">](https://digitalinnovation.one/bootcamps/code-anywhere) 
+[<img src="img/dio/everis_fullstack.png">](https://digitalinnovation.one/bootcamps/everis-fullstack-developer) 
+[<img src="img/dio/everis_qa.png">](https://digitalinnovation.one/bootcamps/everis-quality-assurance-beginner)
+[<img src="img/dio/everis_kotlin.png">](https://digitalinnovation.one/bootcamps/everis-kotlin-developer) 
+[<img src="img/dio/gtf_java.png">](https://digitalinnovation.one/bootcamps/gft-start-2-java) 
+[<img src="img/dio/gtf_net.png">](https://digitalinnovation.one/bootcamps/gft-start-2-net)
+[<img src="img/dio/inter.png">](https://digitalinnovation.one/bootcamps/inter-java-developer)
+[<img src="img/dio/inter_mobile.png">](https://digitalinnovation.one/bootcamps/inter-android-developer)
+[<img src="img/dio/impulso.png">](https://digitalinnovation.one/bootcamps/bootcamp-ruby-impulso)
+[<img src="img/dio/localizalabs.png">](https://digitalinnovation.one/bootcamps/localizalabs-net-developer) 
+[<img src="img/dio/mrv.png">](https://digitalinnovation.one/bootcamps/mrv-net-developer)
+[<img src="img/dio/mrv_front.png">](https://digitalinnovation.one/bootcamps/mrv-front-end-spa-developer)
+[<img src="img/dio/santander_fullstack.png">](https://app.becas-santander.com/pt-BR/program/santanderbootcamp) 
+[<img src="img/dio/takeblip.png">](https://digitalinnovation.one/bootcamps/take-blip-fullstack-developer)
 
 
 ---

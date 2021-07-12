@@ -56,5 +56,7 @@
 
 [<img src="img/hackerrank.png">](https://www.hackerrank.com)
 [<img src="img/dio.png">](https://digitalinnovation.one/)
+[<img src="img/treinadev.png">](https://treinadev.com.br/)
+
 ### Github
 * [Java: Collections](https://github.com/wesleyfuchter/collections-course)

@@ -1,6 +1,8 @@
 # Bootcamp
 [<img src="img/dio/codeanywhere.png">](https://digitalinnovation.one/bootcamps/code-anywhere) 
-[<img src="img/dio/everis_fullstack.png">](https://digitalinnovation.one/bootcamps/everis-fullstack-developer) 
+[<img src="img/dio/everis_dotnet.png">](https://digitalinnovation.one/bootcamps/everis-new-talents-net)
+[<img src="img/dio/everis_fullstack.png">](https://digitalinnovation.one/bootcamps/everis-fullstack-developer)
+[<img src="img/dio/everis_java.png">](https://digitalinnovation.one/#) 
 [<img src="img/dio/everis_qa.png">](https://digitalinnovation.one/bootcamps/everis-quality-assurance-beginner)
 [<img src="img/dio/everis_kotlin.png">](https://digitalinnovation.one/bootcamps/everis-kotlin-developer) 
 [<img src="img/dio/gtf_java.png">](https://digitalinnovation.one/bootcamps/gft-start-2-java) 

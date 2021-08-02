@@ -1,11 +1,12 @@
 # Bootcamp
 [<img src="img/dio/codeanywhere.png">](https://digitalinnovation.one/bootcamps/code-anywhere) 
-[<img src="img/dio/cognizant_cloud_data_engineer.png">](#)
+[<img src="img/dio/cognizant_cloud_data_engineer.png">](https://digitalinnovation.one/bootcamps/cognizant-cloud-data-engineer)
 [<img src="img/dio/everis_dotnet.png">](https://digitalinnovation.one/bootcamps/everis-new-talents-net)
 [<img src="img/dio/everis_fullstack.png">](https://digitalinnovation.one/bootcamps/everis-fullstack-developer)
 [<img src="img/dio/everis_java.png">](https://digitalinnovation.one/bootcamps/everis-new-talents-java) 
-[<img src="img/dio/everis_qa.png">](https://digitalinnovation.one/bootcamps/everis-quality-assurance-beginner)
 [<img src="img/dio/everis_kotlin.png">](https://digitalinnovation.one/bootcamps/everis-kotlin-developer) 
+[<img src="img/dio/everis_qa.png">](https://digitalinnovation.one/bootcamps/everis-quality-assurance-beginner)
+[<img src="img/dio/everis_site_reliability_engineer.png">](https://digitalinnovation.one/bootcamps/everis-site-reliability-engineer-essentials)
 [<img src="img/dio/gtf_java.png">](https://digitalinnovation.one/bootcamps/gft-start-2-java) 
 [<img src="img/dio/gtf_net.png">](https://digitalinnovation.one/bootcamps/gft-start-2-net)
 [<img src="img/dio/inter.png">](https://digitalinnovation.one/bootcamps/inter-java-developer)
@@ -22,12 +23,12 @@
 ---
 
 ## Conteúdo
+* Linguagem de programação
 * Estrutura de dados
 * Banco de dados
 * Linux
 * Git
 * TDD
-* Linguagem de programação
 * Arquitetura de sistemas
 * Deploy
 

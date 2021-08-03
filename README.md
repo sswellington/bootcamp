@@ -9,6 +9,7 @@
 [<img src="img/dio/everis_site_reliability_engineer.png">](https://digitalinnovation.one/bootcamps/everis-site-reliability-engineer-essentials)
 [<img src="img/dio/gtf_java.png">](https://digitalinnovation.one/bootcamps/gft-start-2-java) 
 [<img src="img/dio/gtf_net.png">](https://digitalinnovation.one/bootcamps/gft-start-2-net)
+[<img src="img/dio/gtf5_net.png">](https://digitalinnovation.one/bootcamps/gft-start-5-net)
 [<img src="img/dio/inter.png">](https://digitalinnovation.one/bootcamps/inter-java-developer)
 [<img src="img/dio/inter_mobile.png">](https://digitalinnovation.one/bootcamps/inter-android-developer)
 [<img src="img/dio/impulso.png">](https://digitalinnovation.one/bootcamps/bootcamp-ruby-impulso)

@@ -16,7 +16,7 @@ namespace Salary
 
         public static void checked_salary(double salary)
         {
-             if (salary <= 400.00)
+            if (salary <= 400.00)
             {
                 str(salary, 0.15);
             }

@@ -17,6 +17,7 @@
 [<img src="img/dio/localizalabs_react.png">](https://digitalinnovation.one/bootcamps/localizalabs-react-developer) 
 [<img src="img/dio/mrv.png">](https://digitalinnovation.one/bootcamps/mrv-net-developer)
 [<img src="img/dio/mrv_front.png">](https://digitalinnovation.one/bootcamps/mrv-front-end-spa-developer)
+[<img src="img/dio/pottencial.png">](https://www.dio.me/bootcamp/pottencial-net-developer)
 [<img src="img/dio/santander_fullstack.png">](https://app.becas-santander.com/pt-BR/program/santanderbootcamp) 
 [<img src="img/dio/takeblip.png">](https://digitalinnovation.one/bootcamps/take-blip-fullstack-developer)
 
